@@ -1,4 +1,4 @@
 # harness-paper-writing
 
 ## writing style
-The writing should be clear and concise to the intention, leaving no room for misunderstanding.
+The writing should be concise, precise, and unambiguous, leaving no room for misunderstanding.
